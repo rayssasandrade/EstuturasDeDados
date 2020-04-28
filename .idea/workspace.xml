@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69841b26-74eb-48aa-9b26-0a1d5492df16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EstruturasI/FilaComVetores/FilaComVetor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasI/FilaComVetores/FilaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasI/FilaComVetores/InterfaceFilaComVetor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasI/FilaComVetores/MainFilaComVetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasI/ListaDupComSentinela/InterfaceListaDupComSentilena.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasI/ListaDupComSentinela/ListaDupComSentinelas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasI/ListaDupComSentinela/ListaVaziaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasI/ListaDupComSentinela/NoDup2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasI/ListaDupComSentinela/NoDupCabeca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasI/ListaDupComSentinela/NoDupCauda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasI/ListaDupComSentinela/TesteListaComSentinelas.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588086204166</updated>
-      <workItem from="1588086207489" duration="5224000" />
+      <workItem from="1588086207489" duration="5504000" />
     </task>
     <servers />
   </component>
