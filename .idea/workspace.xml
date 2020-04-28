@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69841b26-74eb-48aa-9b26-0a1d5492df16" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasI/CListaSequencial/CListaCheiaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasI/CListaSequencial/CListaSequencial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasI/CListaSequencial/CListaVaziaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasI/CListaSequencial/CTesteSequencial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasI/CListaSequencial/IndiceForaDosLimitesException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasI/CListaSequencial/InterfaceCListaSequencial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasI/CListaSequencial/ItemNãoEncontradoException.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588086204166</updated>
-      <workItem from="1588086207489" duration="6760000" />
+      <workItem from="1588086207489" duration="7034000" />
     </task>
     <servers />
   </component>
