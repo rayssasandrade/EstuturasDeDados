@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69841b26-74eb-48aa-9b26-0a1d5492df16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/iojava/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iojava/IOBInario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iojava/IOJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iojava/IOJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iojava/IOObjeto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iojava/IOTesteJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iojava/IOTesteObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iojava/IOTesteString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iojava/IOTexto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="69841b26-74eb-48aa-9b26-0a1d5492df16" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588086204166</updated>
-      <workItem from="1588086207489" duration="8517000" />
+      <workItem from="1588086207489" duration="8788000" />
     </task>
     <servers />
   </component>
