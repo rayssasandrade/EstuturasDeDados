@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69841b26-74eb-48aa-9b26-0a1d5492df16" name="Default Changelist" comment="" />
+    <list default="true" id="69841b26-74eb-48aa-9b26-0a1d5492df16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/iojava/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iojava/IOBInario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iojava/IOJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iojava/IOJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iojava/IOObjeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iojava/IOTesteJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iojava/IOTesteObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iojava/IOTesteString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iojava/IOTexto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,19 +28,28 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/EstruturasII" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IOJava/libs/gson-2.2.4.jar!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rayssa\IdeaProjects\EstruturasDeDados\src\EstruturasII\ArvoreBinaria\Jogo" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="EstruturasI.Exercicio" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rayssa\IdeaProjects\EstruturasDeDados\src" />
+      <recent name="C:\Users\Rayssa\IdeaProjects\EstruturasDeDados\src\EstruturasII" />
       <recent name="C:\Users\Rayssa\IdeaProjects\EstruturasDeDados\src\EstruturasI" />
       <recent name="C:\Users\Rayssa\IdeaProjects\EstruturasDeDados\src\EstruturasI\Testes" />
     </key>
@@ -76,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588086204166</updated>
-      <workItem from="1588086207489" duration="7826000" />
+      <workItem from="1588086207489" duration="8517000" />
     </task>
     <servers />
   </component>
