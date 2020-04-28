@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69841b26-74eb-48aa-9b26-0a1d5492df16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EstruturasI/Exercicio/Polibio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasI/Testes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasI/Testes/MainPilha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasI/Testes/MainVetorEX01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasI/Testes/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasI/Testes/Peca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasI/Testes/Pilha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasI/Testes/Polibio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasI/Testes/VetorEX01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasI/FilaComVetores/FilaComVetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasI/FilaComVetores/FilaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasI/FilaComVetores/InterfaceFilaComVetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasI/FilaComVetores/MainFilaComVetor.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +35,8 @@
       <recent name="EstruturasI.Exercicio" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Rayssa\IdeaProjects\EstruturasDeDados\src\EstruturasI\Testes" />
       <recent name="C:\Users\Rayssa\IdeaProjects\EstruturasDeDados\src\EstruturasI" />
+      <recent name="C:\Users\Rayssa\IdeaProjects\EstruturasDeDados\src\EstruturasI\Testes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -87,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588086204166</updated>
-      <workItem from="1588086207489" duration="4975000" />
+      <workItem from="1588086207489" duration="5224000" />
     </task>
     <servers />
   </component>
